@@ -79,6 +79,7 @@
   justify-content: center;
   align-items: center;
   border-radius: 5px;
+  cursor: pointer;
 }
 .olivia_text_welcome button p {
   padding: 0px 10px;
@@ -156,6 +157,7 @@
   background-color: black;
   color: white;
   border-radius: 5px;
+  cursor: pointer;
 }
 .p {
   margin-left: 60px;
